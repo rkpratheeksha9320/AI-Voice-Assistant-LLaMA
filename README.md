@@ -5,7 +5,7 @@ An AI-powered voice assistant that accepts text or voice input, generates respon
 
 ## 📸 Project Demo
 
-<img src="./screenshot.png" alt="AI Voice Assistant" width="800"/> 
+<img src="./screenshot.png">
 
 ## 🚀 Features
 

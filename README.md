@@ -3,6 +3,8 @@
 
 An AI-powered voice assistant that accepts text or voice input, generates responses using Meta LLaMA 2, and converts the response into speech.
 
+## 📸 Project Demo
+
 ![AI Voice Assistant](screenshot.png)
 
 

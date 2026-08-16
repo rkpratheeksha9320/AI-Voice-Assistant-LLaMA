@@ -1,0 +1,6 @@
+torch
+transformers
+gradio
+gtts
+SpeechRecognition
+huggingface_hub
